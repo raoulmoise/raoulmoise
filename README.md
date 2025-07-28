@@ -2,7 +2,6 @@
 
 **Start Date:** July 28, 2025  
 **Focus:** Building real-world DevOps & SRE skills through hands-on lab work.  
-**Status:** 🟢 Active | Updated weekly | Commute-aware execution strategy
 
 ---
 
