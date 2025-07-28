@@ -27,6 +27,7 @@ This repository tracks my ongoing journey — from basic setups to complex, prod
 📫 GitHub: [@raoulmoise](https://github.com/raoulmoise)
 
 🚀 LinkedIn: https://www.linkedin.com/in/raoul-moise-7b7005174/
+
 ---
 
 > “Consistency over pressure. Precision over panic.”  
