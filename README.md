@@ -11,14 +11,14 @@ This repository tracks my ongoing journey — from basic setups to complex, prod
 
 ---
 
-## 🔧 Tech Stack & Tools - Ongoing
+## 🔧 Tech Stack & Tools
 
-- 🐳 Docker & Docker Compose 🔳
-- ⚙️ Ansible 🔳
-- 📈 Prometheus + Grafana + Alertmanager 🔳
-- ☸️ k3s (lightweight Kubernetes) 🔳
-- 🛡️ Falco (runtime security), UFW 🔳
-- 🗃️ Git + GitHub + GitHub Actions 🔳
+- 🐳 Docker & Docker Compose 
+- ⚙️ Ansible
+- 📈 Prometheus + Grafana + Alertmanager
+- ☸️ k3s (lightweight Kubernetes)
+- 🛡️ Falco (runtime security), UFW
+- 🗃️ Git + GitHub + GitHub Actions
 
 ---
 
