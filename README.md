@@ -17,7 +17,6 @@ This repository tracks my ongoing journey — from basic setups to complex, prod
 - ⚙️ Ansible
 - 📈 Prometheus + Grafana + Alertmanager
 - ☸️ k3s (lightweight Kubernetes)
-- 🛡️ Falco (runtime security), UFW
 - 🗃️ Git + GitHub + GitHub Actions
 
 ---
