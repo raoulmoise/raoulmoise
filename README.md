@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-I'm Raoul, a Lab Engineer transitioning into DevOps & SRE by building and documenting real-world infrastructure projects in my homelab. My goal is to master tools like Docker, Kubernetes, Ansible, and Grafana while applying strong automation and observability practices.
+I'm Raoul, a Lab Engineer transitioning into DevOps & SRE by building and documenting real-world infrastructure projects in my homelab. My goal is to master tools like Docker, Kubernetes, Ansible, and Grafana while applying strong automation and observability practices. Also there will be some automation scripts that will help speed up some of the task I do daily at work or at home.
 
 This repository tracks my ongoing journey — from basic setups to complex, production-grade workflows — all tested on real hardware and shared publicly as proof of work.
 
