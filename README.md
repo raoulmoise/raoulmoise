@@ -3,7 +3,7 @@
 Hands-on DevOps learning environment running on Ubuntu Server with Docker, Kubernetes (k3s), and various self-hosted tools.  
 This repo documents **install steps**, **configs**, and **project progress**.
 
-##  Quick Links
+##  📂 Quick Links
 - [Homelab](https://github.com/raoulmoise/homelab)
 - [Ubuntu Server Install](https://github.com/raoulmoise/homelab/tree/main/ubuntu-server-setup)
 - [Containters](https://github.com/raoulmoise/homelab/tree/main/containers)
