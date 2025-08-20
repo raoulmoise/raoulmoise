@@ -6,7 +6,7 @@ This repo documents **install steps**, **configs**, and **project progress**.
 ##  📂 Quick Links
 - [Homelab](https://github.com/raoulmoise/homelab)
 - [Ubuntu Server Install](https://github.com/raoulmoise/homelab/tree/main/ubuntu-server-setup)
-- [Containters](https://github.com/raoulmoise/homelab/tree/main/containers)
+- [Containers](https://github.com/raoulmoise/homelab/tree/main/containers)
 
 ## 👨‍💻 About Me
 
