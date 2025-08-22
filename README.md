@@ -28,7 +28,8 @@ This repository tracks my ongoing journey — from basic setups to complex, prod
 - 📈 Prometheus + Grafana + Alertmanager 	(Coming soon)
 - ☸️ k3s (lightweight Kubernetes) 	(Coming soon)
 - 🗃️ Git + GitHub + GitHub Actions 	(Coming soon)
-- 🛜 Tailscale  (Coming soon)
+- 🛜 Wireguard  (Coming soon)
+- 🍓 PiHole  (Coming soon)
 
 ---
 
