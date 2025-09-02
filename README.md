@@ -6,6 +6,7 @@ This repo documents **install steps**, **configs**, and **project progress**.
 ##  📂 Quick Links
 - [Homelab](https://github.com/raoulmoise/homelab)
 - [Ubuntu Server Install](https://github.com/raoulmoise/homelab/tree/main/ubuntu-server-setup)
+- [Proxmox-Setup](https://github.com/raoulmoise/homelab/tree/main/proxmox-setup)
 - [Containers](https://github.com/raoulmoise/homelab/tree/main/containers)
 - [Scripting](https://github.com/raoulmoise/scripting)
 - [k3s-cluster](https://github.com/raoulmoise/k3s-cluster)
