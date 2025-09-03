@@ -5,7 +5,6 @@ This repo documents **install steps**, **configs**, and **project progress**.
 
 ##  📂 Quick Links
 - [Homelab](https://github.com/raoulmoise/homelab)
-- [Proxmox-Setup](https://github.com/raoulmoise/homelab/tree/main/proxmox-setup)
 - [Containers](https://github.com/raoulmoise/homelab/tree/main/containers)
 - [Scripting](https://github.com/raoulmoise/scripting)
 
