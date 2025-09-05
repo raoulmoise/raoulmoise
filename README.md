@@ -7,7 +7,7 @@ This repo documents **install steps**, **configs**, and **project progress**.
 - [Homelab](https://github.com/raoulmoise/homelab)
 - [Containers](https://github.com/raoulmoise/homelab/tree/main/containers)
 - [Scripting](https://github.com/raoulmoise/scripting)
-- [Ansible](https://github.com/raoulmoise/ansible)
+- [Ansible](https://github.com/raoulmoise/homelab/tree/main/ansible)
 
 ## 👨‍💻 About Me
 
