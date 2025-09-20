@@ -8,6 +8,7 @@ This repo documents **install steps**, **configs**, and **project progress**.
 - [Containers](https://github.com/raoulmoise/homelab/tree/main/containers)
 - [Scripting](https://github.com/raoulmoise/scripting)
 - [Ansible](https://github.com/raoulmoise/homelab/tree/main/ansible)
+- [K3s](https://github.com/raoulmoise/homelab/tree/main/k3s-cluster)
 
 ## 👨‍💻 About Me
 
