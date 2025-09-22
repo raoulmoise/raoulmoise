@@ -26,7 +26,7 @@ This repository tracks my ongoing journey — from basic setups to complex, prod
 ## 🔧 Tech Stack & Tools
 
 - 🐳 Docker & Docker Compose 
-- ⚙️ Ansible 	(Coming soon)
+- ⚙️ Ansible 
 - 📈 Prometheus + Grafana + Alertmanager 	(Coming soon)
 - ☸️ k3s (lightweight Kubernetes)
 - 🗃️ Git + GitHub + GitHub Actions 	(Coming soon)
